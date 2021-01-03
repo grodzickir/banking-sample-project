@@ -1,0 +1,15 @@
+GET http://localhost:8080/
+Authorization: Basic dGVzdDp0ZXN0
+
+###
+GET http://localhost:8080/?accountTypes=1
+Authorization: Basic dGVzdDp0ZXN0
+
+###
+GET http://localhost:8080/?accountTypes=1&customers=1,2,3
+Authorization: Basic dGVzdDp0ZXN0
+
+###
+GET http://localhost:8080/?accountTypes=ALL&customers=3
+Authorization: Basic dGVzdDp0ZXN0
+

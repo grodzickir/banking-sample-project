@@ -1,0 +1,7 @@
+application:
+  users:
+    - username: test
+      password: test
+    - username: asdf
+      password: test
+
