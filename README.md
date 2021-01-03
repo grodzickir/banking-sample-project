@@ -12,6 +12,7 @@ Including Spring Security Basic configuration
 
 ## Tests
 EndToEndTest.kt has tests mentioned in requirements
+test.http - sample http requests
 
 ## Potential improvements
 - Caching customers queries
